@@ -1,0 +1,34 @@
+{
+  "DISPLAY": {
+    "WIDTH": 320,
+    "HEIGHT": 480,
+    "FPS": 600,
+    "AA": false,
+    "ANIMATION": true,
+    "FRAMEBUFFER": "/dev/fb1",
+    "PWM": false,
+    "SHOW_FPS": false,
+    "SHOW_API_STATS": true,
+    "MOUSE": false
+  },
+  "WEATHERBIT_URL": "https://api.weatherbit.io/v2.0",
+  "WEATHERBIT_IO_KEY": "f98a8ad6f753405c8096b30398697373",
+  "WEATHERBIT_COUNTRY": "au",
+  "WEATHERBIT_LANGUAGE": "en",
+  "WEATHERBIT_POSTALCODE": 2145,
+  "WEATHERBIT_HOURS": 1,
+  "WEATHERBIT_DAYS": 4,
+  "LOCALE": {
+    "ISO": "en_US",
+    "RAIN_STR": "Rain",
+    "SNOW_STR": "Snow",
+    "PRECIP_STR": "Precipitation",
+    "METRIC": true
+  },
+  "THEME": "example.theme",
+  "TIMER": {
+    "UPDATE": 420,
+    "RELOAD": 600
+  },
+  "ENV": "Pi"
+}
